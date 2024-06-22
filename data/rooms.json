@@ -1,0 +1,230 @@
+{
+  "ge": {
+    "rooms": [
+      {
+        "id": 1,
+        "title": "ლუქსის ოთახი",
+        "location": "ნიუ იორკი",
+        "details": "ფართო ლუქსის ოთახი ქალაქის ხედით, მეფის ზომის საწოლით და მდიდრული კომფორტით.",
+        "image": "https://image-tc.galaxy.tf/wijpeg-k4h6gvovqe0bbfizq35w2w5s/deluxe-king-1920-x-1080.jpg",
+        "score": 9.5,
+        "price": 500,
+        "originalPrice": 600,
+        "available": true
+      },
+      {
+        "id": 2,
+        "title": "დელუქს ოთახი",
+        "location": "ბოსტონი",
+        "details": "კომფორტული ოთახი თანამედროვე დიზაინით, დედოფლის ზომის საწოლით და ქალაქის ხედით.",
+        "image": "https://image-tc.galaxy.tf/wijpeg-ahekhfbv4hh0fr7xf2v48n075/new-novotel-guest-room-master-image.jpg",
+        "score": 9.0,
+        "price": 300,
+        "originalPrice": 350,
+        "available": true
+      },
+      {
+        "id": 3,
+        "title": "სტანდარტული ოთახი",
+        "location": "მაიამი",
+        "details": "მყუდრო ოთახი თანამედროვე მოწყობილობებით და კომფორტით.",
+        "image": "https://www.royalcaribbeanblog.com/sites/default/files/fb/junior-suite-accessible-room.jpg",
+        "score": 8.7,
+        "price": 200,
+        "originalPrice": 250,
+        "available": true
+      },
+      {
+        "id": 4,
+        "title": "ოჯახის ოთახი",
+        "location": "ნიუ იორკი",
+        "details": "ფართო ოთახი ოჯახებისთვის, მეფის და ორმაგი საწოლებით.",
+        "image": "https://st.hzcdn.com/simgs/pictures/family-rooms/new-home-wayzata-mn-14-lecy-bros-homes-and-remodeling-img~d411bd4206e86ee4_14-6092-1-66fd2b1.jpg",
+        "score": 9.3,
+        "price": 400,
+        "originalPrice": 450,
+        "available": true
+      },
+      {
+        "id": 5,
+        "title": "ეკონომიური ოთახი",
+        "location": "ბოსტონი",
+        "details": "მარტივი ოთახი ძირითადი მოხერხებულობებით და კარგი ფასი.",
+        "image": "https://webbox.imgix.net/images/owvecfmxulwbfvxm/c56a0c0d-8454-431a-9b3e-f420c72e82e3.jpg",
+        "score": 8.0,
+        "price": 100,
+        "originalPrice": 120,
+        "available": true
+      },
+      {
+        "id": 6,
+        "title": "პრეზიდენტის სუიტა",
+        "location": "მაიამი",
+        "details": "ფუფუნების სუიტა მაღალი ხარისხის კომფორტით და დიდებული ხედებით.",
+        "image": "https://image-tc.galaxy.tf/wijpeg-8ncxjl009abgs25xovml7by60/executive-suite-living-room-1920-x-1080_wide.jpg?crop=0%2C0%2C1920%2C1080&width=1200",
+        "score": 9.8,
+        "price": 1000,
+        "originalPrice": 1200,
+        "available": true
+      },
+      {
+        "id": 7,
+        "title": "ბიზნეს სუიტა",
+        "location": "ნიუ იორკი",
+        "details": "სუიტა ბიზნეს მოგზაურებისთვის, სამუშაო სივრცეებით და კომფორტით.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKx3wVIk3e9dVCCtd1rwIAbelDbYk9xf3wNQ&s",
+        "score": 9.1,
+        "price": 450,
+        "originalPrice": 500,
+        "available": true
+      },
+      {
+        "id": 8,
+        "title": "რომანტიკული სუიტა",
+        "location": "ბოსტონი",
+        "details": "რომანტიკული სუიტა წყვილებისთვის, დიდი საწოლით და ხედით.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx2gDeit2XQoyPy8Vbqaut00TrNXcPTc4Brg&s",
+        "score": 9.4,
+        "price": 350,
+        "originalPrice": 400,
+        "available": true
+      },
+      {
+        "id": 9,
+        "title": "სტუდიოს ტიპის ოთახი",
+        "location": "მაიამი",
+        "details": "სტუდიოს ტიპის ოთახი, ერთიანი სივრცით და კომფორტით.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjrz3BZn0-ZJ4H59ssldHK7Svpxm-J8dv-Q&s",
+        "score": 8.6,
+        "price": 250,
+        "originalPrice": 300,
+        "available": true
+      },
+      {
+        "id": 10,
+        "title": "თინეიჯერებისთვის ოთახი",
+        "location": "ნიუ იორკი",
+        "details": "ოთახი თინეიჯერებისთვის, მორგებული ტექნოლოგიებით და კომფორტით.",
+        "image": "https://www.tokyuhotelsjapan.com/cerulean-h/facility/img/facility_images_pic_room01.jpg",
+        "score": 8.9,
+        "price": 150,
+        "originalPrice": 180,
+        "available": true
+      }
+    ]
+  },
+  "en": {
+    "rooms": [
+      {
+        "id": 1,
+        "title": "Deluxe King Room",
+        "location": "New York",
+        "details": "Spacious room with a king-size bed, modern amenities, and city view.",
+        "image": "https://image-tc.galaxy.tf/wijpeg-k4h6gvovqe0bbfizq35w2w5s/deluxe-king-1920-x-1080.jpg",
+        "score": 9.5,
+        "price": 250,
+        "originalPrice": 300,
+        "available": true
+      },
+      {
+        "id": 2,
+        "title": "Standard Queen Room",
+        "location": "Boston",
+        "details": "Comfortable room with a queen-size bed and garden view.",
+        "image": "https://image-tc.galaxy.tf/wijpeg-ahekhfbv4hh0fr7xf2v48n075/new-novotel-guest-room-master-image.jpg",
+        "score": 8.7,
+        "price": 150,
+        "originalPrice": null,
+        "available": true
+      },
+      {
+        "id": 3,
+        "title": "Suite with Balcony",
+        "location": "Miami",
+        "details": "Luxury suite with a private balcony and ocean view.",
+        "image": "https://www.royalcaribbeanblog.com/sites/default/files/fb/junior-suite-accessible-room.jpg",
+        "score": 9.8,
+        "price": 400,
+        "originalPrice": 450,
+        "available": true
+      },
+      {
+        "id": 4,
+        "title": "Family Room",
+        "location": "New York",
+        "details": "Spacious family room with two queen-size beds and a sofa bed.",
+        "image": "https://st.hzcdn.com/simgs/pictures/family-rooms/new-home-wayzata-mn-14-lecy-bros-homes-and-remodeling-img~d411bd4206e86ee4_14-6092-1-66fd2b1.jpg",
+        "score": 9.2,
+        "price": 350,
+        "originalPrice": null,
+        "available": false
+      },
+      {
+        "id": 5,
+        "title": "Single Room",
+        "location": "Boston",
+        "details": "Cozy single room with a single bed, ideal for solo travelers.",
+        "image": "https://webbox.imgix.net/images/owvecfmxulwbfvxm/c56a0c0d-8454-431a-9b3e-f420c72e82e3.jpg",
+        "score": 8.3,
+        "price": 100,
+        "originalPrice": 120,
+        "available": true
+      },
+      {
+        "id": 6,
+        "title": "Executive Suite",
+        "location": "Miami",
+        "details": "Premium suite with a separate living area and executive amenities.",
+        "image": "https://image-tc.galaxy.tf/wijpeg-8ncxjl009abgs25xovml7by60/executive-suite-living-room-1920-x-1080_wide.jpg?crop=0%2C0%2C1920%2C1080&width=1200",
+        "score": 9.7,
+        "price": 500,
+        "originalPrice": 550,
+        "available": true
+      },
+      {
+        "id": 7,
+        "title": "Twin Room",
+        "location": "New York",
+        "details": "Modern room with two twin beds and all standard amenities.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKx3wVIk3e9dVCCtd1rwIAbelDbYk9xf3wNQ&s",
+        "score": 8.6,
+        "price": 200,
+        "originalPrice": null,
+        "available": true
+      },
+      {
+        "id": 8,
+        "title": "Honeymoon Suite",
+        "location": "Boston",
+        "details": "Romantic suite with a king-size bed and a private jacuzzi.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx2gDeit2XQoyPy8Vbqaut00TrNXcPTc4Brg&s",
+        "score": 9.9,
+        "price": 450,
+        "originalPrice": 500,
+        "available": false
+      },
+      {
+        "id": 9,
+        "title": "Presidential Suite",
+        "location": "Miami",
+        "details": "Opulent suite with two bedrooms, a living area, and a private office.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjrz3BZn0-ZJ4H59ssldHK7Svpxm-J8dv-Q&s",
+        "score": 9.9,
+        "price": 1000,
+        "originalPrice": 1200,
+        "available": true
+      },
+      {
+        "id": 10,
+        "title": "Accessible Room",
+        "location": "New York",
+        "details": "Room designed for accessibility with all necessary facilities.",
+        "image": "https://www.tokyuhotelsjapan.com/cerulean-h/facility/img/facility_images_pic_room01.jpg",
+        "score": 8.5,
+        "price": 180,
+        "originalPrice": 200,
+        "available": true
+      }
+    ]
+  }
+}

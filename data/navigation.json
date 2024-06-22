@@ -1,0 +1,42 @@
+{
+  "en": {
+    "navigation": [
+      {
+        "href": "/rooms",
+        "label": "Rooms",
+        "sublinks": []
+      },
+      {
+        "href": "/login",
+        "label": "Login",
+        "sublinks": []
+      },
+      {
+        "href": "/signup",
+        "label": "Registration",
+        "sublinks": []
+      }
+    ],
+    "contact": "Contact"
+  },
+  "ge": {
+    "navigation": [
+      {
+        "href": "/rooms",
+        "label": "ოთახები",
+        "sublinks": []
+      },
+      {
+        "href": "/login",
+        "label": "შესვლა",
+        "sublinks": []
+      },
+      {
+        "href": "/signup",
+        "label": "რეგისტრაცია",
+        "sublinks": []
+      }
+    ],
+    "contact": "კონტაქტი"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "en": {
+    "placeholder": {
+      "email": "email",
+      "password": "password"
+    },
+    "submit": "Log in"
+  },
+  "ge": {
+    "placeholder": {
+      "email": "ელ-ფოსტა",
+      "password": "პაროლი"
+    },
+    "submit": "შესვლა"
+  }
+}

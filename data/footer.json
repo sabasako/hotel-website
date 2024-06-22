@@ -1,0 +1,92 @@
+{
+  "en": {
+    "title": "Hotel",
+    "logoUrl": "/hilton.jpg",
+    "companyName": "Hotel",
+    "data": [
+      {
+        "title": "Services",
+        "links": [
+          {
+            "label": "Room Service"
+          },
+          {
+            "label": "Spa"
+          },
+          {
+            "label": "Gym"
+          }
+        ]
+      },
+      {
+        "title": "Navigation",
+        "links": [
+          {
+            "label": "Rooms",
+            "href": "/rooms"
+          },
+          {
+            "label": "Login",
+            "href": "/login"
+          },
+          {
+            "label": "Registration",
+            "href": "/signup"
+          }
+        ]
+      }
+    ],
+    "contact": {
+      "contactHeading": "Contact",
+      "phone": "+995 599 999 999",
+      "phoneLabel": "Phone",
+      "email": "info@hotel.ge",
+      "emailLabel": "Email"
+    }
+  },
+  "ge": {
+    "title": "სასტუმრო",
+    "logoUrl": "/hilton.jpg",
+    "companyName": "სასტუმრო",
+    "data": [
+      {
+        "title": "სერვისები",
+        "links": [
+          {
+            "label": "ოთახის მომსახურება"
+          },
+          {
+            "label": "სპა"
+          },
+          {
+            "label": "ჯიმი"
+          }
+        ]
+      },
+      {
+        "title": "ნავიგაცია",
+        "links": [
+          {
+            "label": "ოთახები",
+            "href": "/rooms"
+          },
+          {
+            "label": "შესვლა",
+            "href": "/login"
+          },
+          {
+            "label": "რეგისტრაცია",
+            "href": "/signup"
+          }
+        ]
+      }
+    ],
+    "contact": {
+      "contactHeading": "კონტაქტი",
+      "phone": "+995 599 999 999",
+      "phoneLabel": "ტელეფონი",
+      "email": "info@hotel.ge",
+      "emailLabel": "ელ-ფოსტა"
+    }
+  }
+}

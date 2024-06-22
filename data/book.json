@@ -1,0 +1,36 @@
+{
+  "en": {
+    "placeholder": {
+      "name": "name",
+      "lastName": "last name",
+      "email": "email",
+      "phone": "phone",
+      "roomId": "room number",
+      "location": "location",
+      "date": "date",
+      "message": "message"
+    },
+    "submit": "Book",
+    "contact": {
+      "phoneLabel": "Phone",
+      "emailLabel": "Email"
+    }
+  },
+  "ge": {
+    "placeholder": {
+      "name": "სახელი",
+      "lastName": "გვარი",
+      "email": "ელ-ფოსტა",
+      "phone": "ტელეფონის ნომერი",
+      "roomId": "ოთახის ნომერი",
+      "location": "ლოკაცია",
+      "date": "თარიღი",
+      "message": "შეტყობინება"
+    },
+    "submit": "დაჯავშნა",
+    "contact": {
+      "phoneLabel": "ტელეფონი",
+      "emailLabel": "ელ-ფოსტა"
+    }
+  }
+}

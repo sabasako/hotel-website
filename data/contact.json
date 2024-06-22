@@ -1,0 +1,34 @@
+{
+  "en": {
+    "title": "Contact Us",
+    "description": "Book a room at our hotel or send us a message",
+    "placeholder": {
+      "name": "name",
+      "lastName": "last name",
+      "email": "email",
+      "phone": "phone",
+      "message": "message"
+    },
+    "submit": "Send",
+    "contact": {
+      "phoneLabel": "Phone",
+      "emailLabel": "Email"
+    }
+  },
+  "ge": {
+    "title": "დაგვიკივაშირდით",
+    "description": "დაჯავშნეთ ოთახი ჩვენს სასტუმროში ან მოგვწერეთ",
+    "placeholder": {
+      "name": "სახელი",
+      "lastName": "გვარი",
+      "email": "ელ-ფოსტა",
+      "phone": "ტელეფონის ნომერი",
+      "message": "შეტყობინება"
+    },
+    "submit": "გაგზავნა",
+    "contact": {
+      "phoneLabel": "ტელეფონი",
+      "emailLabel": "ელ-ფოსტა"
+    }
+  }
+}

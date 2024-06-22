@@ -1,0 +1,36 @@
+{
+  "en": {
+    "welcome": "Welcome to Our Hotel",
+    "experience": "Experience luxury and comfort in the heart of the city.",
+    "gallery": "Gallery",
+    "aboutUs": "About Us",
+    "aboutUsText": "Our hotel offers the perfect blend of luxury, comfort, and style. Whether you're here for business or leisure, we provide an unforgettable experience.",
+    "amenities": "Amenities",
+    "freeWiFi": "Free Wi-Fi",
+    "roomService": "24/7 Room Service",
+    "swimmingPool": "Swimming Pool",
+    "gymSpa": "Gym & Spa",
+    "conferenceRooms": "Conference Rooms",
+    "guestReviews": "Guest Reviews",
+    "review1": "Absolutely wonderful experience! The staff was friendly and the rooms were immaculate.",
+    "review2": "The best hotel in the city! Highly recommended.",
+    "reserveNow": "Reserve Now"
+  },
+  "ge": {
+    "welcome": "კეთილი იყოს თქვენი მობრძანება ჩვენს სასტუმროში",
+    "experience": "გამოიცადეთ ფუფუნება და კომფორტი ქალაქის გულში.",
+    "gallery": "გალერეა",
+    "aboutUs": "ჩვენს შესახებ",
+    "aboutUsText": "ჩვენი სასტუმრო გთავაზობთ ფუფუნების, კომფორტისა და სტილის სრულყოფილ ნაზავს. იქნება ეს საქმიანი ვიზიტი თუ დასვენება, ჩვენ გთავაზობთ დაუვიწყარ გამოცდილებას.",
+    "amenities": "აუცილებელი პირობები",
+    "freeWiFi": "უფასო Wi-Fi",
+    "roomService": "24/7 ოთახის სერვისი",
+    "swimmingPool": "საცურაო აუზი",
+    "gymSpa": "გიმნაზია და სპა",
+    "conferenceRooms": "კონფერენციების ოთახები",
+    "guestReviews": "სტუმრების მიმოხილვები",
+    "review1": "აბსოლუტურად შესანიშნავი გამოცდილება! პერსონალი მეგობრული და ოთახები სუფთა იყო.",
+    "review2": "ქალაქის საუკეთესო სასტუმრო! ძლიერ გირჩევთ.",
+    "reserveNow": "დაჯავშნეთ ახლავე"
+  }
+}
